@@ -1,4 +1,4 @@
-[![Testing workflow](https://github.com/Till223/automation-exercise-wt2223/actions/workflows/exercise_workflow.yml/badge.svg)](https://github.com/Till223/automation-exercise-wt2223/actions/workflows/exercise_workflow.yml)
+[![exercise_workflow](https://github.com/Till223/automation-exercise-wt2223/actions/workflows/exercise_workflow.yml/badge.svg)](https://github.com/Till223/automation-exercise-wt2223/actions/workflows/exercise_workflow.yml)
 
 # Automation Exercise
 
